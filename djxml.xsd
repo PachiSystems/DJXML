@@ -31,7 +31,7 @@
             							<xs:attribute name="Num" type="xs:integer"/>
             							<xs:attribute name="Red" type="xs:integer"/>
             							<xs:attribute name="Green" type="xs:integer"/>
-            							<xs:attribute name="Blue" type="xs:integer"/
+            							<xs:attribute name="Blue" type="xs:integer"/>
         							</xs:complexType>
         						</xs:element>
             			</xs:sequence>
@@ -57,14 +57,13 @@
             			<xs:attribute name="Mix" type="xs:string"/>
             			<xs:attribute name="PlayCount" type="xs:integer"/>
             			<xs:attribute name="Rating" type="xs:decimal"/>
-            			<xs:attribute name="Remixer" type="xs:string"/>
             			<xs:attribute name="SampleRate" type="xs:integer"/>
             			<xs:attribute name="Size" type="xs:integer"/>
             			<xs:attribute name="MusicalKey" type="xs:string"/>
             			<xs:attribute name="TotalTime" type="xs:integer"/>
             			<xs:attribute name="TrackNumber" type="xs:integer"/>
             			<xs:attribute name="Year" type="xs:integer"/>
-            			<xs:attribute name="Energy" type="xs:string">
+            			<xs:attribute name="Energy" type="xs:string"/>
             			<xs:attribute name="Lossless" type="xs:boolean"/>
             			<xs:attribute name="Pressing" type="xs:string"/>
             			<xs:attribute name="Riddim" type="xs:string"/>
